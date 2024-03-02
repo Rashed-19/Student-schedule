@@ -1,0 +1,24 @@
+{
+  "homepage": "https://master.d1z3zcnhoj58uv.amplifyapp.com/",
+  "name": "scheduler",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "1.1.5",
+    "svg.js": "^2.7.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
