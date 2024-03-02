@@ -5,7 +5,7 @@ Student sched website
 
 [🔗Live Demo🔗](https://news-moonbeam-ed1242.netlify.app/#/)
 
-![Protfolio Website](https://app.screenclip.com/TdpX/webschedulerpng)
+![Protfolio Website](https://app.screenclip.com/TdpX/webscheduler.png)
 
 <!-- <div align="center">
 
@@ -37,7 +37,7 @@ Student sched website
 
 <br/>
 
-## Features
+<!-- ## Features
 
 **📖 Multi-Page Layout**
 
@@ -47,8 +47,8 @@ Student sched website
 
 <br />
 
-## 🚀 How to get started?
-
+## 🚀 How to get started? -->
+<!-- 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
 ## 🛠 Installation and Setup Instructions
@@ -65,4 +65,4 @@ The page will reload if you make edits.
 Feel free to contribute to this repo.
 
 ### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
+<h1 align=center> 🧠 Happy Hacking 🧠 </h1> -->
