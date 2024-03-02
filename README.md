@@ -5,7 +5,7 @@ Student sched website
 
 [🔗Live Demo🔗](https://news-moonbeam-ed1242.netlify.app/#/)
 
-![Protfolio Website](https://github.com/Rashed-19/Student-schedule)
+![Protfolio Website](https://app.screenclip.com/TdpX/webschedulerpng)
 
 <!-- <div align="center">
 
